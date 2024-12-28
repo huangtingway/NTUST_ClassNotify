@@ -9,7 +9,7 @@ About: 使用網頁爬蟲擷取課程查詢系統選課人數，出現未額滿�
 - 自動通知：pip install win10toast
   
 ## demo
-<video src="https://googlechromelabs.github.io/chrome-for-testing/#stable" width="100%" controls></video>
+<video src="https://github.com/huangtingway/NTUST_ClassNotify/assets/92153423/542256bb-9ab5-4a20-98f7-4504abd783df" width="100%" controls></video>
 
 ## 使用方式
 1. 開啟pyton IDE執行gui.py
